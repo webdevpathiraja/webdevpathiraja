@@ -16,10 +16,15 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 
 🤷🏻‍♀My guilty pleasure *Watching Turkish series!🫶🏻 When I’m not buried in code, lectures, due assignments or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.*
 
-<h3 align="left">Technologies (Programming and Development)</h3>
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<h3 align="left">Technologies (Programming and Development)👩🏼‍💻🛠️</h3>
 <p align="left"> 
-  <h4 align="left">👩🏻‍💻Programming Languages</h4>
+  <h4 align="left">👷🏼‍♀️Programming Languages</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/> 
   </a> 
@@ -79,8 +84,4 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
