@@ -1,5 +1,3 @@
-<img src="gif2.gif" alt="Animated GIF" width="100%" height="250px" />
-
 <h1 align="center">Hello World👋🏻! I'm Aloka Pathiraja</h1>
 <h4 align="center">Full-stack developer in training, IIT undergrad🎓</h4>
 
