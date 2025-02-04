@@ -24,7 +24,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 
 <h3 align="left">Technologies (Programming and Development)👩🏼‍💻🛠️</h3>
 <p align="left"> 
-  <h4 align="left">👷🏼‍♀️Programming Languages</h4>
+  <h4 align="left">⭕️Programming Languages</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/> 
   </a> 
@@ -40,7 +40,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 </p>
 
 <p align="left"> 
-  <h4 align="left">🔥Full Stack Technologies</h4>
+  <h4 align="left">❎Full Stack Technologies</h4>
   <a href="https://spring.io" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="40" height="40"/> 
   </a> 
@@ -68,14 +68,14 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 </p>
 
 <p align="left"> 
-  <h4 align="left">🎲Game Development</h4>
+  <h4 align="left">⭕️Game Development</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" alt="Unity" width="40" height="40"/> 
   </a> 
 </p>
 
 <p align="left"> 
-  <h4 align="left">🗃Databases</h4>
+  <h4 align="left">❎Databases</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MYSQL" width="40" height="40"/> 
   </a>
