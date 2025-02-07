@@ -6,7 +6,7 @@ With a keen interest in web development and object-oriented programming, I devel
 I am committed to constantly expanding my knowledge of emerging technologies to remain at the cutting edge of innovation, aiming to contribute to a more interconnected and efficient world through the solutions I create🔥💯.
 
 ## 🔭 Current Projects
-- **AI Hand Tracking on CPU in real time**
+- **AI Hand Tracking on CPU in real time and Sign Language Detection**
 
 ## 🕯 Currently Learning
 - Game development using Unity Engine, along with C#
