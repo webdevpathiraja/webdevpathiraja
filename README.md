@@ -1,4 +1,5 @@
-# Hello World👋🏻! I'm Aloka Pathiraja
+![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/Your%20paragraph%20text.png)
+# Hello World 👋🏼! I'm Aloka Pathiraja
 
 #### Full-stack developer in training, IIT undergrad🎓
 
