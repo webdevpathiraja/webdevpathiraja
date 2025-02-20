@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/Your%20paragraph%20text.png)
+![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/git%20banner.png)
 # Hello World 👋🏼! I'm Aloka Pathiraja
 
 #### Full-stack developer in training, IIT undergrad🎓
