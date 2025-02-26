@@ -24,7 +24,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <p align="center"><strong><span style="font-size: 2em;">HOW TO REACH ME</span></strong></p>
 <div align="center">
   <kbd>
-    <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail">
+    <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail Me">
       <img src="https://img.shields.io/badge/-Mail-FFB22C?style=for-the-badge" />
     </a>
     <a href="https://www.linkedin.com/in/alokapathiraja" target="_blank" title="LinkedIn">
