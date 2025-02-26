@@ -46,11 +46,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+![GitHub Snake](https://github.com/webdevpathiraja/webdevpathiraja/blob/output/github-snake.svg)
 
 ## Technologies (Programming and Development) 👩🏼‍💻🛠️
 
