@@ -25,7 +25,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <div align="center">
   <kbd>
     <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail Me">
-      <img src="https://img.shields.io/badge/-Mail-FFB22C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Mail Me-FFB22C?style=for-the-badge" />
     </a>
     <a href="https://www.linkedin.com/in/alokapathiraja" target="_blank" title="LinkedIn">
       <img src="https://img.shields.io/badge/-LinkedIn-0A3981?style=for-the-badge&logo=Linkedin&logoColor=white" />
