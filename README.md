@@ -11,16 +11,16 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 </div>
 
 <p align="center"><strong><span style="font-size: 2em;">MY ONGOING PROJECTS</span></strong></p>
-<ul>
-  <li>AI Hand Tracking on CPU in real time and American Sign Language Detection</li>
-  <li>Math Jungle (Gamified therapy for Dyscalculic children aged 5-8)</li>
-</ul>
+
+&nbsp;&nbsp;🔆 AI Hand Tracking on CPU in real time and American Sign Language Detection  
+&nbsp;&nbsp;🔆 Math Jungle (Gamified therapy for Dyscalculic children aged 5-8)
 
 <p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING🕯️</span></strong></p>
 
-  <p>⋆ Game development using Unity Engine, along with C#</p>
-  <p>⋆ WebSocket programming</p>
-  <p>⋆ Algorithm theory and its implementation</p>
+&nbsp;&nbsp;⭕ Game development using Unity Engine, along with C#  
+&nbsp;&nbsp;⭕ WebSocket programming  
+&nbsp;&nbsp;⭕ Algorithm theory and its implementation
+
 
 
 
@@ -39,8 +39,8 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 
 <p></p>
 
-<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁👋🏼</span></strong></p>  
-<p>- Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
+<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁🤷🏽‍♀️</span></strong></p>  
+<p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
 
 
 
