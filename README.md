@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/git%20banner.png)
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=F7F7F7&width=800&center=true&lines=Hello+World,+I'm+Aloka+Pathiraja+👋🏼;Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer+⛳;Also+an+AI+and+ML+Enthusiast!;An+undergrad+CS+student+at+IIT,+🇱🇰+in+my+2nd+year">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=F7F7F7&width=800&center=true&lines=Hello+World,+I'm+Aloka+Pathiraja+👋🏼;Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer+⛳;Also+an+AI+and+ML+Enthusiast!;An+undergrad+CS+student+at+IIT,+🇱🇰">
 </p>
     <p> Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker </p>
   <p align="center">
