@@ -1,9 +1,8 @@
 name: GitHub Snake Game
-
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Corrected cron expression (5 values required)
   # Allow manual triggering of the workflow
   workflow_dispatch:
   # Trigger the workflow on pushes to the main branch
@@ -28,7 +27,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=purple&color_dots=#f5e1ff,#dcb0ff,#c77dff,#9d4edd,#7b2cbf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
