@@ -21,30 +21,25 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 &nbsp;&nbsp;⭕ WebSocket programming  
 &nbsp;&nbsp;⭕ Algorithm theory and its implementation
 
-
-
-
-
 <p align="center"><strong><span style="font-size: 2em;">HOW TO REACH ME</span></strong></p>
 <div align="center">
   <kbd>
     <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail">
-      <img src="https://img.shields.io/badge/-Mail-FFB200?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Mail-FFB22C?style=for-the-badge" />
     </a>
     <a href="https://www.linkedin.com/in/alokapathiraja" target="_blank" title="LinkedIn">
-      <img src="https://img.shields.io/badge/-LinkedIn-1F509A?style=for-the-badge&logo=Linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0A3981?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
   </kbd>
 </div>
-
+<!--Green - #09b43a-->
+<!--Yellow - ##efb041-->
+<!--Red - #ff6969-->
+<!--Blue - #1688f0-->
 <p></p>
 
-<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁🤷🏽‍♀️</span></strong></p>  
+<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁</span></strong></p>  
 <p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
-
-
-
----
 
 ![GitHub Snake](https://github.com/webdevpathiraja/webdevpathiraja/blob/output/github-snake.svg)
 
