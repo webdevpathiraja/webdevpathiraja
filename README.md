@@ -1,8 +1,8 @@
 ![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/git%20banner.png)
 <div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&size=25&pause=800&color=F7F7F7&width=490&lines=Hello World,+I'm+Aloka+Pathiraja;Welcome+to+my+GitHub+Profile;I'm+a+Full+Stack+Developer;Also+an+AI+and+ML+Enthusiast!;+An+undergrad+student+at+IIT,+🇱🇰">
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=F7F7F7&width=800&center=true&lines=Hello+World,+I'm+Aloka+Pathiraja+👋🏼;Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer+⛳;Also+an+AI+and+ML+Enthusiast!;An+undergrad+CS+student+at+IIT,+🇱🇰+in+my+2nd+year">
+</p>
     <p> Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker </p>
   <p align="center">
     <p>With a keen interest in web development and object-oriented programming, I develop projects that blend functionality with creativity to address real-world challenges. From AI-driven assistants to responsive web experiences, my focus is on developing technology that enhances daily life and provides meaningful user experiences⛳💡. <br>
@@ -15,7 +15,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 &nbsp;&nbsp;🔆 AI Hand Tracking on CPU in real time and American Sign Language Detection  
 &nbsp;&nbsp;🔆 Math Jungle (Gamified therapy for Dyscalculic children aged 5-8)
 
-<p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING🕯️</span></strong></p>
+<p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING 🕯️</span></strong></p>
 
 &nbsp;&nbsp;⭕ Game development using Unity Engine, along with C#  
 &nbsp;&nbsp;⭕ WebSocket programming  
