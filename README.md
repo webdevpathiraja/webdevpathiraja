@@ -78,7 +78,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <h3 align="center">STATS THAT MATTER</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webdevpathiraja&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevpathiraja&theme=vision_friendly_dark&hide_border=false" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevpathiraja&theme=vision_friendly_dark&hide_border=false" />
 </p>
 
 <h3 align="center">REPO HIGHLIGHTS</h3>
