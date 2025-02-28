@@ -5,7 +5,7 @@
 </p>
     <p> Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker </p>
   <p align="center">
-    <p>With a keen interest in web development and object-oriented programming, I develop projects that blend functionality with creativity to address real-world challenges. From AI-driven assistants to responsive web experiences, my focus is on developing technology that enhances daily life and provides meaningful user experiences⛳💡. <br>
+    <p>With a keen interest in web development and object-oriented programming, I develop projects that blend functionality with creativity to address real-world challenges. From AI-driven assistants to responsive web experiences, my focus is on developing technology that enhances daily life and provides meaningful user experiences⛳. <br>
 I am committed to constantly expanding my knowledge of emerging technologies to remain at the cutting edge of innovation, aiming to contribute to a more interconnected and efficient world through the solutions I create🔥💯.</p>
 </p>
 </div>
