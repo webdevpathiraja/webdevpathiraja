@@ -42,8 +42,8 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake.svg" />
 </picture>
 
