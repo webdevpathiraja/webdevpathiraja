@@ -75,6 +75,8 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FA812F.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-FDA403.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-191919.svg?style=flat&logo=unity&logoColor=white)
 
 <p> </p>
 
