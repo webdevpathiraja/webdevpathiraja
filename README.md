@@ -41,11 +41,6 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁</span></strong></p>  
 <p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
 
-<picture>
-  <img width="700" src="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake.svg" />
-</picture>
-
-
 <h2 align="center">MY TOOLKIT</h2>
 
 ![Java](https://img.shields.io/badge/Java-FF8000.svg?style=flat&logo=openjdk&logoColor=black) 
