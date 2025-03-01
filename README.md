@@ -69,7 +69,7 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-B15EFF.svg?style=flat&logo=tailwind-css&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-00BCD4.svg?style=flat&logo=mysql&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-F6E1C3.svg?style=flat&logo=figma&logoColor=black) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![pandas](https://img.shields.io/badge/pandas-003285.svg?style=flat&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FA812F.svg?style=flat&logo=TensorFlow&logoColor=white) 
