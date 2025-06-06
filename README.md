@@ -24,6 +24,9 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <p align="center"><strong><span style="font-size: 2em;">HOW TO REACH ME</span></strong></p>
 <div align="center">
   <kbd>
+    <a href="https://alokaapathiraja.netlify.app/" target="_blank" title="My Portfolio">
+      <img src="https://img.shields.io/badge/My%20Portfolio-09b43a?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=09b43a&color=09b43a" />
+    </a>
     <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail Me">
       <img src="https://img.shields.io/badge/-Mail Me-FFB22C?style=for-the-badge" />
     </a>
