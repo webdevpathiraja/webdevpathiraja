@@ -10,23 +10,27 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 </p>
 </div>
 
-<p align="center"><strong><span style="font-size: 2em;">MY ONGOING PROJECTS</span></strong></p>
+<!--<p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING 🕯️</span></strong></p>
 
-&nbsp;&nbsp;🔆 AI Hand Tracking on CPU in real time and American Sign Language Detection  
-&nbsp;&nbsp;🔆 Math Jungle (Gamified therapy for Dyscalculic children aged 5-8)
+&nbsp;&nbsp;⭕ Algorithm theory and its implementation-->
 
-<p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING 🕯️</span></strong></p>
-
-&nbsp;&nbsp;⭕ Game development using Unity Engine, along with C#  
-&nbsp;&nbsp;⭕ WebSocket programming  
-&nbsp;&nbsp;⭕ Algorithm theory and its implementation
-
+<p align="center"><strong><span style="font-size: 2em;">MY PORTFOLIO</span></strong></p>
+<div align="center">
+  <kbd>
+   <a href="https://alokaapathiraja.netlify.app/" 
+   target="_blank" 
+   title="My Portfolio" 
+   style="color: black;">
+    <img src="https://img.shields.io/badge/-My Portfolio-B15EFF?style=for-the-badge" />
+</a>
+  </kbd>
+</div>
+<p></p>
+  
+  
 <p align="center"><strong><span style="font-size: 2em;">HOW TO REACH ME</span></strong></p>
 <div align="center">
   <kbd>
-    <a href="https://alokaapathiraja.netlify.app/" target="_blank" title="My Portfolio">
-      <img src="https://img.shields.io/badge/My%20Portfolio-09b43a?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=09b43a&color=09b43a" />
-    </a>
     <a href="mailto:alokapathiraja.03@gmail.com" target="_blank" title="Mail Me">
       <img src="https://img.shields.io/badge/-Mail Me-FFB22C?style=for-the-badge" />
     </a>
@@ -41,8 +45,9 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <!--Blue - #1688f0-->
 <p></p>
 
-<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁</span></strong></p>  
-<p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>
+<!--<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁</span></strong></p>  
+<p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>-->
+<!--<p align="center"><strong><span style="font-size: 2em;">MY ONGOING PROJECTS</span></strong></p>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake-dark.svg" />
@@ -87,11 +92,6 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webdevpathiraja&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevpathiraja&theme=vision_friendly_dark&hide_border=false" />
-</p>
-
-<h3 align="center">REPO HIGHLIGHTS</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=webdevpathiraja&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </p>
 
 
