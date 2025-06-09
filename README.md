@@ -19,9 +19,8 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
   <kbd>
    <a href="https://alokaapathiraja.netlify.app/" 
    target="_blank" 
-   title="My Portfolio" 
-   style="color: black;">
-    <img src="https://img.shields.io/badge/-My Portfolio-B15EFF?style=for-the-badge" />
+   title="My Portfolio">
+    <img src="https://img.shields.io/badge/-My Portfolio-ff6969?style=for-the-badge" />
 </a>
   </kbd>
 </div>
