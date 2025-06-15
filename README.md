@@ -1,32 +1,39 @@
+<!-- Profile Banner -->
 ![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/git%20banner.png)
+
+<!-- Typing SVG Header -->
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=F7F7F7&width=800&center=true&lines=Hello+World,+I'm+Aloka+Pathiraja+👋🏼;Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer+⛳;Also+an+AI+and+ML+Enthusiast!;An+undergrad+CS+student+at+IIT,+🇱🇰">
-</p>
-    <p> Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker </p>
-  <p align="center">
-    <p>With a keen interest in web development and object-oriented programming, I develop projects that blend functionality with creativity to address real-world challenges. From AI-driven assistants to responsive web experiences, my focus is on developing technology that enhances daily life and provides meaningful user experiences⛳. <br>
-I am committed to constantly expanding my knowledge of emerging technologies to remain at the cutting edge of innovation, aiming to contribute to a more interconnected and efficient world through the solutions I create🔥💯.</p>
-</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Aloka+Pathiraja!;Crafting+AI-powered+solutions.;Building+full-stack+web+applications.;Designing+Computer-Vision+systems.;Optimizing+software+with+algorithms.;Creating+UI%2FUX-focused+experiences.)
+
 </div>
 
-<!--<p align="center"><strong><span style="font-size: 2em;">CURRENTLY LEARNING 🕯️</span></strong></p>
+<!-- Tagline -->
+<!--<p align="center">
+  Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker
+</p>-->
 
-&nbsp;&nbsp;⭕ Algorithm theory and its implementation-->
+<!-- Intro Paragraph -->
+<p align="center">
+⋄ Motivated and detail-oriented Software Engineering undergraduate with hands-on experience in developing <br>
+full-stack applications, AI systems, and algorithmic solutions. <br><br>
+⋄ Proven track record of attention to detail and effective teamwork <br> demonstrated through successful collaboration on high-impact group projects. <br><br>
+⋄ Leadership excellence recognized through national awards and leadership roles, <br>evidencing the ability to effectively lead teams and deliver successful project outcomes. <br><br>
+⋄ Seeking a one-year, full-time internship to grow as a developer and <br>build software solutions that help in leaving the world a little better than I found it.
+</p>
 
+<!-- Portfolio -->
 <p align="center"><strong><span style="font-size: 2em;">MY PORTFOLIO</span></strong></p>
 <div align="center">
   <kbd>
-   <a href="https://alokaapathiraja.netlify.app/" 
-   target="_blank" 
-   title="My Portfolio">
-    <img src="https://img.shields.io/badge/-My Portfolio-ff6969?style=for-the-badge" />
-</a>
+    <a href="https://alokaapathiraja.netlify.app/" target="_blank" title="My Portfolio">
+      <img src="https://img.shields.io/badge/-My Portfolio-ff6969?style=for-the-badge" />
+    </a>
   </kbd>
 </div>
-<p></p>
-  
-  
+<P></P>
+
+<!-- Contact -->
 <p align="center"><strong><span style="font-size: 2em;">HOW TO REACH ME</span></strong></p>
 <div align="center">
   <kbd>
@@ -38,22 +45,15 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
     </a>
   </kbd>
 </div>
-<!--Green - #09b43a-->
-<!--Yellow - ##efb041-->
-<!--Red - #ff6969-->
-<!--Blue - #1688f0-->
-<p></p>
 
-<!--<p align="center"><strong><span style="font-size: 2em;">GUILTY PLEASURE 😁</span></strong></p>  
-<p>Watching Turkish series! 🫶🏻 When I’m not buried in code, lectures, due assignments, or anything career-related, you’ll find me glued to the screen getting lost in the world of drama, romance, and unpredictable plot twists.</p>-->
-<!--<p align="center"><strong><span style="font-size: 2em;">MY ONGOING PROJECTS</span></strong></p>-->
-
+<!-- GitHub Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/webdevpathiraja/webdevpathiraja/output/github-snake.svg" />
 </picture>
 
+<!-- Toolkit -->
 <h2 align="center">MY TOOLKIT</h2>
 
 ![Java](https://img.shields.io/badge/Java-FF8000.svg?style=flat&logo=openjdk&logoColor=black) 
@@ -87,19 +87,9 @@ I am committed to constantly expanding my knowledge of emerging technologies to 
 
 <p> </p>
 
+<!-- Stats -->
 <h3 align="center">STATS THAT MATTER</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webdevpathiraja&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevpathiraja&theme=vision_friendly_dark&hide_border=false" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
