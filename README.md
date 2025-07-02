@@ -19,7 +19,7 @@
 full-stack applications, AI systems, and algorithmic solutions. <br><br>
 ⋄ Proven track record of attention to detail and effective teamwork <br> demonstrated through successful collaboration on high-impact group projects. <br><br>
 ⋄ Leadership excellence recognized through national awards and leadership roles, <br>evidencing the ability to effectively lead teams and deliver successful project outcomes. <br><br>
-⋄ Seeking a one-year, full-time internship to grow as a developer and <br>build software solutions that help in leaving the world a little better than I found it.
+⋄ I am currently emplyed as a <strong>Software Engineering Intern at hSenidBiz</strong> in Sri Lanka.
 </p>
 
 <!-- Portfolio -->
