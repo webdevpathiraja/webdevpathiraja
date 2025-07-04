@@ -15,11 +15,9 @@
 
 <!-- Intro Paragraph -->
 <p align="center">
-⋄ Motivated and detail-oriented Software Engineering undergraduate with hands-on experience in developing <br>
+• Dedicated and adaptive Computer Science undergraduate (3rd Year - Placement Year) with hands-on experience in developing <br>
 full-stack applications, AI systems, and algorithmic solutions. <br><br>
-⋄ Proven track record of attention to detail and effective teamwork <br> demonstrated through successful collaboration on high-impact group projects. <br><br>
-⋄ Leadership excellence recognized through national awards and leadership roles, <br>evidencing the ability to effectively lead teams and deliver successful project outcomes. <br><br>
-⋄ I am currently emplyed as a <strong>Software Engineering Intern at hSenidBiz</strong> in Sri Lanka.
+• I am currently employed as a <strong>Software Engineering Intern at hSenidBiz</strong> in Sri Lanka.
 </p>
 
 <!-- Portfolio -->
