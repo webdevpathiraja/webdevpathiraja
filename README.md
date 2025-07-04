@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/new%20banner.png)
+![Profile Banner](https://github.com/webdevpathiraja/webdevpathiraja/blob/main/gh%20banner.png)
 
 <!-- Typing SVG Header -->
 <div align="center">
